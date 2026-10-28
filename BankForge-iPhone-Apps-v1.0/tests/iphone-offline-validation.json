@@ -1,0 +1,12 @@
+{
+  "cachedAssets": 23,
+  "githubRepositorySubpath": true,
+  "distinctInstallableAppIdentities": true,
+  "allRuntimeAssetsServedWithNetworkUnavailable": true,
+  "offlinePlayerAndTrainerNavigation": true,
+  "workerAndTensorRuntimeCached": true,
+  "noRuntimeCDN": true,
+  "cacheIsolation": true,
+  "networkRequestsDuringOfflineReads": 0,
+  "playerOnlyNetworkNoSearchMode": true
+}

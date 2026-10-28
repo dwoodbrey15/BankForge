@@ -1,0 +1,11 @@
+{
+  "legacy/engine.js": "b92e05cfc6a9cc11f8f23e66d19e4421a6572af700d75887b34ce5d906aa2fc7",
+  "legacy/neural.js": "7469d8dbf07e59b1d54ed71f4535ec2d25994970927543e64bf044817e2f4c35",
+  "legacy/legacy-neural.js": "23e1dba3f3100c35c4782d9c8d11016721ef23e4d00f1e1e22e6dc7abb5a947f",
+  "memory_features.js": "f208b0cfa6958a1ae522c88a55dfa5c6e79e324ba70b740594dcb7f54aa6d4b2",
+  "position_features.js": "6affc3dacc1138f16115fcb3b4d44f5466027146fc79608b1884bd88c1c4b880",
+  "opponent_targets.js": "c74319485a17c39d40451d2aacaf1b8abfc2c9836dbbfca1a428cfc095744e10",
+  "legacy/classic-champion.js": "dc429e64c46210d05a7f966815f75767ef19b0e79c79a14c3f30cc99b4dec047",
+  "legacy/opponents.js": "814057f96ec4c45474389e47ea2433a6dc352a7e35e17c1660648f40eabd61d0",
+  "simulator-mlp.js": "e9f0fa24580ac90a46a53209d7db2211346d3429c137163902b8eb38e587e075"
+}

@@ -1,0 +1,6 @@
+{
+  "phone_run_to_pt_exact_weights": true,
+  "pc_loader_accepts_checkpoint": true,
+  "pt_to_portable_roundtrip_exact": true,
+  "optimizer_reset_explicit": true
+}

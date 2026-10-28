@@ -1,0 +1,28 @@
+{
+  "version": "764d08f9b0c8f703",
+  "assets": [
+    "index.html",
+    "play/index.html",
+    "play/manifest.webmanifest",
+    "play/play.css",
+    "play/play.js",
+    "train/index.html",
+    "train/manifest.webmanifest",
+    "train/plot.js",
+    "train/train.css",
+    "train/train.js",
+    "train/worker.js",
+    "shared/core.js",
+    "shared/icon-192.png",
+    "shared/icon-512.png",
+    "shared/icon.svg",
+    "shared/model.js",
+    "shared/offline.js",
+    "shared/scoring.js",
+    "shared/simulator.js",
+    "shared/storage.js",
+    "shared/tensor-model.js",
+    "vendor/tf.min.js",
+    "models/neural-9.json"
+  ]
+}

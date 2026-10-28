@@ -1,0 +1,23 @@
+{
+  "stateOnlyMLPActualPPO": true,
+  "neural9ActualPPO": true,
+  "resumeAndOptimizer": true,
+  "bestLowerBound": true,
+  "objectiveChangeResetsCritic": true,
+  "benchmarkDefinitionIsolation": true,
+  "allZeroZeroCredit": true,
+  "allZeroParticipantAndOpponentExportFieldsZero": true,
+  "positiveTiesSplit": true,
+  "customFixedSeedRepeatable": true,
+  "noDuplicateTypes": true,
+  "customOneAtATime": true,
+  "historySnapshotTrainingAndResume": true,
+  "historyExcludedFromBenchmarks": true,
+  "malformedShapeRejected": true,
+  "trainedUpdates": 2,
+  "samples": [
+    433,
+    404
+  ],
+  "lastTensorsSaved": true
+}

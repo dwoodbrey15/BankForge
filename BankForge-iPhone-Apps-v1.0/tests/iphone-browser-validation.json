@@ -1,0 +1,25 @@
+{
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "browser": "Chromium in-app browser",
+  "physical_iphone_tested": false,
+  "player_neural9_loaded": true,
+  "safe_rolls_and_multiple_same_pot_banks": true,
+  "real_gpu_webgl_training": true,
+  "gpu_initial_run_updates": 13,
+  "run_survives_reload": true,
+  "phone_run_import": true,
+  "trained_model_export_then_offline_player_import": true,
+  "preview_server_stopped_and_confirmed_unreachable": true,
+  "offline_player_reload_and_inference": true,
+  "offline_cpu_training_resume": true,
+  "offline_gpu_training_resume": true,
+  "offline_resumed_run_reached_update": 77,
+  "actual_and_ema_paths_differ": true,
+  "win_rate_and_multiple_paths_differ": true,
+  "arbitrary_ema_span_tested": 3.5,
+  "no_console_errors_during_gpu_training": true,
+  "test_training_stopped": true
+}

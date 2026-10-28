@@ -1,0 +1,197 @@
+[
+  {
+    "file": ".nojekyll",
+    "bytes": 1,
+    "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+  },
+  {
+    "file": "index.html",
+    "bytes": 2232,
+    "sha256": "ec3477edaa57bacc058b093a5b8c428727693dad472685306919241694bac955"
+  },
+  {
+    "file": "models/neural-9.json",
+    "bytes": 197487,
+    "sha256": "9ed72868e329fe30c73cfd4b88b6c19f32dab78521fc5b3ca1858270243a5688"
+  },
+  {
+    "file": "play/index.html",
+    "bytes": 5985,
+    "sha256": "f8adc241b8c7844b5f4afd3442461326b12089a5d09fd12368dfd9a5f0352f47"
+  },
+  {
+    "file": "play/manifest.webmanifest",
+    "bytes": 409,
+    "sha256": "2da2d30387c8a41d4df3dbfb33d4f3f2e6e6aaff8ab9dacc3fc572621459e2f1"
+  },
+  {
+    "file": "play/play.css",
+    "bytes": 5886,
+    "sha256": "8acee17deb82db6d435d07c7ce12858dcdbddd73cf833236a35417f1c66b5f8e"
+  },
+  {
+    "file": "play/play.js",
+    "bytes": 15538,
+    "sha256": "ef920269466deb397466f365472b9b639c63411024c76321fb26bffae800c12d"
+  },
+  {
+    "file": "README.md",
+    "bytes": 10348,
+    "sha256": "29cc444ce4b75a962d300a60cb426e478e34e244426e1be56a85c616e20bc48c"
+  },
+  {
+    "file": "shared/core.js",
+    "bytes": 74546,
+    "sha256": "d55c46b9b3cc41c16c7f6ca504d151dcf9849ba71d818af9130e3e9d7defdef3"
+  },
+  {
+    "file": "shared/icon-192.png",
+    "bytes": 1141,
+    "sha256": "2e9d2c557635c19eb87ddd882212a0ffcc0cf24acda5f9efcffdfe5607f3a1f6"
+  },
+  {
+    "file": "shared/icon-512.png",
+    "bytes": 3341,
+    "sha256": "8b28c4d8afd65bc93b7b58974a0a0a506cd667978a774a31549d424625951150"
+  },
+  {
+    "file": "shared/icon.svg",
+    "bytes": 388,
+    "sha256": "b62ef334877ee9f3e7acd8974cebad99435cdad69a27ea8c188798feaaad6ff9"
+  },
+  {
+    "file": "shared/model.js",
+    "bytes": 12128,
+    "sha256": "5e65b9508a234f1e24ccbd7e40aa569494a746f980ae1bcdc5b2b38dacfabbdf"
+  },
+  {
+    "file": "shared/offline.js",
+    "bytes": 1656,
+    "sha256": "1bf457e4ad4dccea0f207bc494b7a3b6b3788deefbc52918965142cb20cdd5d7"
+  },
+  {
+    "file": "shared/scoring.js",
+    "bytes": 3382,
+    "sha256": "5ea189a09daabb335f54a268fbf77aed34e573ed99d7ff35e7423e7b98e9dee0"
+  },
+  {
+    "file": "shared/simulator.js",
+    "bytes": 1036970,
+    "sha256": "0a22d6a017be340189565df0f7d05addba32c1576382fd2824889f5235403589"
+  },
+  {
+    "file": "shared/storage.js",
+    "bytes": 2841,
+    "sha256": "8da955fa098297fad96e33f2b810173d0bbeb0e8099991f7c408b3de8d51b9cb"
+  },
+  {
+    "file": "shared/tensor-model.js",
+    "bytes": 8075,
+    "sha256": "e44a84b5e2cc294732799d55e8e21e388b1f12d3006fff75fb25857bbc67807a"
+  },
+  {
+    "file": "sw.js",
+    "bytes": 2555,
+    "sha256": "b2ec400b825f876cdaf01665211bac7926a160d7d91eb756285b27fc8f1e14b9"
+  },
+  {
+    "file": "tests/engine-provenance.json",
+    "bytes": 851,
+    "sha256": "8108f1ce83a1a5a6496857bec7a54886f2c087dc4365512455ec11b426cbde67"
+  },
+  {
+    "file": "tests/iphone-browser-validation.json",
+    "bytes": 859,
+    "sha256": "f4db86c0735ef0d9f7b42fada14ba9ca7b7c4c37556e9114acf74b1d9fa2b5ec"
+  },
+  {
+    "file": "tests/iphone-converter-validation.json",
+    "bytes": 166,
+    "sha256": "7cea7c212241c2d23cf6aa0aaadb7b60cb6a8769533d9e5619ca1ddc6c56728f"
+  },
+  {
+    "file": "tests/iphone-network-parity.json",
+    "bytes": 3917,
+    "sha256": "7c9cbfd79fb8af36d7a17d88b31fe60eafe1406f524a181b3971cf1ddba90d0a"
+  },
+  {
+    "file": "tests/iphone-neural9-validation.json",
+    "bytes": 264,
+    "sha256": "afe96a6b30ac893c5d4022aeca272cc5984ef1b86c707252e4fca1aa5ba44767"
+  },
+  {
+    "file": "tests/iphone-offline-validation.json",
+    "bytes": 377,
+    "sha256": "43f12b72669fabd7fd55f7c4759694396c14146df977311126315d0d0ee52eb7"
+  },
+  {
+    "file": "tests/iphone-training-validation.json",
+    "bytes": 613,
+    "sha256": "9ec55222ff5fbb6290a1ee89ef88c17cac790efff8b9c2d516125d91aca9ca67"
+  },
+  {
+    "file": "tests/offline-assets.json",
+    "bytes": 648,
+    "sha256": "f59481a120f981f7d1d657a41c43347e0e58d5e182691ae0e9e8175d26804c9e"
+  },
+  {
+    "file": "tools/Convert-Checkpoint.cmd",
+    "bytes": 464,
+    "sha256": "22087a875015577ae1b7249c69647c7a8c5eea546dced5b0e0b4c3a52aa68374"
+  },
+  {
+    "file": "tools/convert_checkpoint.py",
+    "bytes": 4447,
+    "sha256": "3650ab9e47238b3ca0916beddf7ccfa48d8743e8f45e4d5212bb9972dcb0ca39"
+  },
+  {
+    "file": "train/index.html",
+    "bytes": 9681,
+    "sha256": "f3c1db1ad815ec6299d3ea539e1ce666b0b4323117c463ad909a6ea9c0191d27"
+  },
+  {
+    "file": "train/manifest.webmanifest",
+    "bytes": 413,
+    "sha256": "76b49398ada25d728f1da7b19822ccbf8addf7932ddb0cc458abe0d648a1592d"
+  },
+  {
+    "file": "train/plot.js",
+    "bytes": 6002,
+    "sha256": "aed60bf6d80be8f6999b437ed7fbe9d776aba49e39264036c5a4d8ab3a142ad1"
+  },
+  {
+    "file": "train/train.css",
+    "bytes": 7630,
+    "sha256": "89562a5ac3520a8d517b4c49cd3263c31858fd2f6e83e9d35a2da0be0404d8f2"
+  },
+  {
+    "file": "train/train.js",
+    "bytes": 25316,
+    "sha256": "6008720df9e512c934de20698ec43aed138f641e7bba71b1697a499ac46ab3d8"
+  },
+  {
+    "file": "train/worker.js",
+    "bytes": 16116,
+    "sha256": "db643ae753b93a76c36405335fa65f2591250b04d32c80172ea344a3f5477aef"
+  },
+  {
+    "file": "vendor/README.md",
+    "bytes": 465,
+    "sha256": "735aa590168ab653b962bb069c1b62b3cb0e19703e382462860dd45323b9ca36"
+  },
+  {
+    "file": "vendor/tensorflow-LICENSE.txt",
+    "bytes": 11358,
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+  },
+  {
+    "file": "vendor/tensorflow-NOTICE.md",
+    "bytes": 1711,
+    "sha256": "317a5c68860c446fbd76819d22c2131654a16b0b3f4373d98ffcd233c57af410"
+  },
+  {
+    "file": "vendor/tf.min.js",
+    "bytes": 1469843,
+    "sha256": "300dfae273d20b4046f46a06d735688f03675a807561e9bcb5f664eb2f3d2831"
+  }
+]

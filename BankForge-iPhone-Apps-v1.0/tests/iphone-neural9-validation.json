@@ -1,0 +1,8 @@
+{
+  "source_checkpoint_sha256": "5e884fdf281023b0d4e2f4d40787dee018e22cc89733f9d02b61c76b26fd013e",
+  "all_weights_bit_exact_after_json_roundtrip": true,
+  "parameters": 9506,
+  "schema": "bankforge-position-attention-3",
+  "updates": 83,
+  "games": 71712
+}
